@@ -4,5 +4,4 @@
 
 <h2> Screenshot <h2>
 
-![(Screen.gif)]# Movie-Website
-# Movie-Website
+![](Screen.gif)
