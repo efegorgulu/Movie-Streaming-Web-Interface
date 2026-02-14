@@ -1,6 +1,6 @@
-# Movie Website (HTML & CSS)
+# Movie Streaming Web Interface (HTML & CSS)
 
-A static **movie browsing web interface** built with **HTML5 and CSS3**, featuring a structured navigation system, sidebar icons, featured content area, categorized movie lists, and interactive visual styling designed to simulate a modern streaming platform layout.
+A static **movie streaming web interface** built with **HTML5 and CSS3**, featuring a structured navigation system, sidebar icons, featured content area, categorized movie lists, and interactive visual styling designed to simulate a modern streaming platform layout.
 
 ## Screenshot
 ![](Screen.gif)
