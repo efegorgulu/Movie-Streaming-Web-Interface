@@ -10,9 +10,9 @@ A static **movie streaming web interface** built with **HTML5 and CSS3**, featur
 - **Sidebar navigation** containing quick-access action icons  
 - **Featured movie section** with title image, description, and action buttons  
 - **Category filter dropdown** for browsing different movie genres  
-- Multiple **movie list sections** such as Popular, Trending, and New  
+- **Multiple movie list sections** such as Popular, Trending, and New  
 - **Interactive movie cards** with hover-style action icons (play, like, dislike, info)  
-- Clean **layout organization** inspired by modern streaming services  
+- **Clean layout organization** inspired by modern streaming services  
 
 ## Technologies Used
 - **HTML5**
